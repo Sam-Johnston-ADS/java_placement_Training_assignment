@@ -147,4 +147,132 @@
 **Output:** element → frequency
 
 ---
+# 🔥 SECTION 7 — LINKED LIST (CORE OPERATIONS)
+### Q16. Linked List Traversal
 
+**Problem**: Print all elements of a singly linked list by traversing from head to null.
+
+**Input**: Linked List elements
+**Output**: Printed list elements in order
+
+# Q17. Insert at Beginning (Linked List)
+
+**Problem**: Insert a new node at the beginning of a linked list.
+
+**Input**: Linked List + value
+Output: Updated linked list
+
+ ### Q18. Insert at End (Linked List)
+
+**Problem**: Insert a new node at the end of a linked list.
+
+**Input**: Linked List + value
+**Output**: Updated linked list
+
+### Q19. Insert at Specific Position
+
+Problem: Insert a node at a given position in the linked list.
+
+Input: Linked List + value + position
+Output: Updated linked list
+
+✅ Q20. Delete from Beginning
+
+Problem: Delete the first node of the linked list.
+
+Input: Linked List
+Output: Updated linked list after deletion
+
+✅ Q21. Delete from End
+
+Problem: Delete the last node of the linked list.
+
+Input: Linked List
+Output: Updated linked list after deletion
+
+✅ Q22. Delete Node by Value
+
+Problem: Delete the node containing a specific value from the linked list.
+
+Input: Linked List + value
+Output: Updated linked list after deletion
+
+✅ Q23. Search Element in Linked List
+
+Problem: Search for a given element in a linked list.
+
+Input: Linked List + target value
+Output: Found / Not Found
+
+⚡ SECTION 8 — STACK IMPLEMENTATION USING LINKED LIST
+✅ Q24. Stack Push Operation
+
+Problem: Implement push operation in stack using linked list.
+
+Input: Value to push
+Output: Updated stack
+
+✅ Q25. Stack Pop Operation
+
+Problem: Implement pop operation in stack using linked list.
+
+Input: Stack
+Output: Removed element + Updated stack
+
+✅ Q26. Stack Peek Operation
+
+Problem: Display the top element of the stack without removing it.
+
+Input: Stack
+Output: Top element
+
+⚡ SECTION 9 — QUEUE IMPLEMENTATION USING LINKED LIST
+✅ Q27. Queue Enqueue Operation
+
+Problem: Insert an element into the queue using linked list.
+
+Input: Value to enqueue
+Output: Updated queue
+
+✅ Q28. Queue Dequeue Operation
+
+Problem: Remove an element from the queue using linked list.
+
+Input: Queue
+Output: Removed element + Updated queue
+
+✅ Q29. Queue Peek Operation
+
+Problem: Display the front element of the queue without removing it.
+
+Input: Queue
+Output: Front element
+
+⚡ SECTION 10 — DEQUE IMPLEMENTATION USING LINKED LIST
+✅ Q30. Deque Insert Front
+
+Problem: Insert an element at the front of the deque.
+
+Input: Value to insert
+Output: Updated deque
+
+✅ Q31. Deque Insert Rear
+
+Problem: Insert an element at the rear of the deque.
+
+Input: Value to insert
+Output: Updated deque
+
+✅ Q32. Deque Delete Front
+
+Problem: Delete an element from the front of the deque.
+
+Input: Deque
+Output: Updated deque after deletion
+
+✅ Q33. Deque Delete Rear
+
+Problem: Delete an element from the rear of the deque.
+
+Input: Deque
+Output: Updated deque after deletion
