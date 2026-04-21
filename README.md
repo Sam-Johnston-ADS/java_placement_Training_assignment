@@ -1,14 +1,5 @@
 # 📄 JAVA PRE-DSA ADVANCED ASSIGNMENT (15 CODING QUESTIONS)
 
-## 🧠 Instructions
-
-* Solve using Core Java only
-* ❌ No built-in shortcuts (like Arrays.sort)
-* Focus on logic + edge cases
-* Clearly mention assumptions if any
-* Add all this codes inside you own Github Repository with the same problem name.
-
----
 
 # 🔥 SECTION 1 — NUMBER LOGIC (ADVANCED)
 
@@ -157,7 +148,3 @@
 
 ---
 
-# 🎯 FINAL NOTE
-
-* This test is designed to break surface-level understanding
-* Focus on logic, not memorization
